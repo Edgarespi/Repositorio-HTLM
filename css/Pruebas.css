@@ -1,0 +1,60 @@
+body{
+     background-color: aquamarine;
+     margin-left: 5px;
+     margin-top: 0px;
+
+
+}
+
+h1 {
+     color: blueviolet;
+     font-size: 50px ;
+     text-align: center;
+}
+
+p { 
+     color: darkorange;
+     font-weight: bold ;
+
+}
+
+b {
+     color: chartreuse;
+
+
+}
+/* class va con punto */ 
+.limon {
+     color: floralwhite;
+
+}
+/* id va con almohadilla */
+#rosa {
+     color: fuchsia;
+     font-size: 23px;
+
+}
+
+img {
+     height:100px ;
+     weight:200px ; 
+}
+table,td, th {
+     border-color: magenta;
+     border-width: 5px;
+     border-style: solid;
+     border-collapse: collapse;
+}
+
+td {
+     color: red;
+
+}
+th {
+     background-color: chartreuse ;
+
+
+}
+#colordif {
+     color: blue;
+}

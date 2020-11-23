@@ -1,0 +1,63 @@
+td ,table {
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-collapse: collapse;
+    
+
+}
+table {
+    width: 60%;
+
+}
+.sub {
+    text-decoration: underline;
+    font-weight: bold;
+
+
+
+}
+#espa {
+   text-align: center;
+
+
+
+
+
+}
+.blu {
+    background-color: cornflowerblue;
+
+}
+.red {
+    background-color: crimson;
+}
+.oran {
+    background-color: darkorange;
+}
+.bayo {
+    background-color: darkorchid;
+}
+.grin {
+    background-color: forestgreen;
+}
+.grei {
+    background-color: gray;
+}
+#tut {
+    background-color: mediumpurple;
+}
+.bar {
+    font-family: fantasy;
+    font-size: 12px;
+}
+.pul {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 14px;
+
+}
+.mon {
+    font-family: Verdana, Tahoma, serif;
+    font-size: 12px;
+
+}

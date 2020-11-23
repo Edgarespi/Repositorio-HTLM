@@ -1,0 +1,13 @@
+table,tr ,td , th{
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+.sub {
+  text-decoration: underline;
+   color: blue;
+
+}
+.ray {
+  text-decoration: line-through;
+
+}
