@@ -1,0 +1,25 @@
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width:100px;
+
+   
+}
+.hawk{
+ font-family: 'Nerko One', cursive;;
+ background-color: chartreuse;
+}
+.black{
+    background-color: aqua;
+    font-family: 'East Sea Dokdo', cursive;
+}
+.thor{
+    background-color: blueviolet;
+    font-family: 'Texturina', serif;
+
+}
+.spidey{
+    background-color: brown;
+    font-family: 'Yeon Sung', cursive;
+
+}

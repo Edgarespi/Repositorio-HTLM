@@ -1,0 +1,23 @@
+fieldset {
+    border-color:black;
+    background-color: orange;
+}
+
+label{
+    font-size: 18px;
+
+
+}
+#gray{
+    background-color: gray;
+}
+#pink{
+    background-color: palevioletred;
+}
+fieldset > legend{
+    text-decoration: underline;
+    font-weight: bold;
+}
+#green{
+    background-color: green;
+}

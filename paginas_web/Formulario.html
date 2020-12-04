@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <title>Títol de la pestanya</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <link rel="stylesheet" href="../css/formulario.css"/>
+    </head>
+    <body>
+        <h1>curriculum</h1>
+        <form action="form.html" method="post" enctype="multipart/form-data">
+            <fieldset >
+                <legend>Información Basica</legend>
+                <label >nombre</label>
+                <br/>
+                <input type="text"  value="" placeholder="tu nombre"/>
+                <br/>
+                <label for="quantity">Altura</label>
+                <br/> 
+                <input type="number" id="quantity" name="quantity" min="0" max="200">                <br/>
+                <label for="id_email">email</label>
+                <br/>
+                <input type="email"  value="tuemail@dominio.com"/>
+                <br/>
+                <label for="id_date">Fecha de Nacimiento</label>
+                <br/>
+                <input type="date" id="id_date" name="n_date" value=""/>
+            </fieldset>
+            <fieldset id="green">
+                <legend>Nacionalidad</legend>
+                <input type="radio" id="Española" name="Nacionalidad" value="Española"/>Española
+                <input type="radio" id="Comunitario(EU)" name="Nacionalidad" value="Comunitario(EU)"/>Comunitario(EU)
+                <input type="radio" id="No Comunitario" name="Nacionalidad" value="No Comunitario"/>No Comunitario
+            </fieldset>   
+            <br/>
+            <fieldset id="pink">
+                <legend>Estudios</legend>
+                <select id="id_select" name="n_select">
+                    <option>GM</option>
+                    <option>GS</option>
+                    <option>ESO</option>
+                   
+                </select>
+                
+            </fieldset>
+            <br/>
+                <fieldset id="gray">
+                    <input type="submit" id="id_submit" name="n_submit" value="ENVIAR"/>                   
+                    <input type="reset" id="id_reset" name="n_reset" value="BORRAR"/>
+                    
+                </fieldset>
+            
+       </form>
+    </body>
+</html>
