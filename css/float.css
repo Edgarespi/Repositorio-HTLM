@@ -1,0 +1,90 @@
+div{
+    border: 2px solid snow;
+  
+}
+#imatge{
+    border:2px red solid ;
+    width: 600px ;
+    height: 600px;
+  
+
+}
+.cuadro1{
+    float: right;
+    height: 94px;
+    background-color:greenyellow;
+    width: 32.5%
+}
+
+.cuadro2{
+    float: left;
+    height: 94px;
+    background-color: green;
+    width: 65.5%;
+}
+.cuadro3{
+    float: left;
+    height: 195px;
+    background-color: black;
+    width: 32.5%
+}
+.cuadro4{
+    float: left;
+    height: 195px;
+    background-color:greenyellow;
+    width: 32.5%
+}
+
+.cuadro5{
+    float: right;
+    height: 94px;
+    background-color: green;
+    width: 32.5%
+
+}
+.cuadro6{
+    float: right;
+    height: 94px;
+    background-color:greenyellow;
+    width: 32.5%; 
+
+}
+
+.cuadro7{
+    float:right;
+    height:195px;
+    background-color: black;
+    width: 32.5%; 
+
+}
+.cuadro8{
+    float: left;
+    height: 94px;
+    background-color: green;
+    width: 65.5%;
+
+}
+.cuadro9{
+    float: left;
+    height: 94px;
+    background-color:greenyellow;
+    width: 65.5%;
+}
+.cuadro10{
+    float: left;
+    height: 94px;
+    background-color: green;
+    width: 32.5%
+}
+ .cuadro11{
+    float: left;
+    height: 94px;
+    background-color:greenyellow;
+    width: 32.5%
+}
+.cuadro12{
+    float: right;
+    height: 94px;
+    background-color: green;
+    width: 32.5%
+}

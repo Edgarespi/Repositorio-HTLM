@@ -1,0 +1,28 @@
+#elefante{
+    position: relative;
+    top: 38px;
+    right: 120px;
+}
+#mono{
+    position: relative;
+    top: 68px;
+    right: 220px;
+}
+#tiger{
+    position: relative;
+    top: 98px;
+    right: 320px;
+}
+#timon{
+    position: relative;
+    top: 118px;
+    right: 420px;
+}
+#hola{
+    background-image: url('banner.jpeg');
+    height: 113px;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 210px;
+    left:100px ;
+}

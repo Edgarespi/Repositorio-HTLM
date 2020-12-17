@@ -1,0 +1,71 @@
+a:hover {
+    background-color: yellow;
+  }
+  li{
+      background-color: white;
+      width: 75%;
+      
+  }
+#logo{
+    position: absolute;
+    top: 15px;
+    left: 30px;
+}
+#banner{
+    background-color: brown;
+    width: 500%;
+    height: 156px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#col{
+    background-color: darkred;
+    position: absolute;
+    width: 15%;
+    height: 650px;
+    top: 156px;
+    left: 0px;
+}
+#index{
+    position: absolute;
+    padding: 60px;
+    left: 500px;
+}
+#col2{
+    background-color: darkred;
+    position: absolute;
+    width: 15%;
+    height: 650px;
+    top: 156px;
+    right:0px;
+
+}
+#banner2{
+    background-color: brown;
+    width: 500%;
+    height: 114px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+#text{
+    background-color: burlywood;
+    position: absolute;
+    width: 70%;
+    height: 650px;
+    top: 156px;
+    left: 288px;
+}
+#banner3{
+    background-image: url(imagenes/peepo-hackerman.jpg);
+    position: relative;
+    height: 603px;
+    top: -625px;
+    width: 2%;
+    left: 1680px;
+    
+}
+p{
+    text-align: center;
+    padding: 70px;

@@ -1,0 +1,8 @@
+#imatge{
+    position: relative;
+    border: solid red 2px;
+}
+#oso{
+    position: absolute;
+    top: 60px;
+    left: 60px;

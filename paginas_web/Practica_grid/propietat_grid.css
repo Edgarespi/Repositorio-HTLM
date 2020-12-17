@@ -1,0 +1,72 @@
+#primerdiv{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20% ;
+   
+}
+#goku1{
+    grid-column-start:3 ;
+}
+#div2{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20% ;
+}
+#termina{
+    grid-column-start:3;
+    grid-column-end:4;
+}
+#div3{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+#n7{
+    grid-column-end: span 2;
+}
+#div4{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+#n10{
+    grid-column: 2 / 4;
+}
+#div5{
+    display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+#view #termina3{
+    grid-row-start:3;
+    grid-column-start:2;
+}
+#div6{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+
+}
+#kinton{
+    grid-row:3 ;
+    grid-column: 2;
+    order: 0;
+}
+
+#goku3 {
+    order: 3;
+    grid-row:1 ;
+    grid-column: 2;
+    opacity: 60%;
+}
+#div7{
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10% ;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+}
+#vegeta{
+    grid-column-start:2 ;
+    grid-column-end: 3;
+    grid-row-start: 2;
+}
+#goku4{
+    grid-column-start:2 ;
+    grid-column-end: 3;
+    grid-row-start: 2;
+}

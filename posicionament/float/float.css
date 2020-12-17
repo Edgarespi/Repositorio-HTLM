@@ -1,0 +1,38 @@
+div{
+    border: 2px dotted black;
+    width: 40%;
+}
+#imatge{
+    border:2px red solid ;
+    width: 50%;
+    float: left;
+}
+
+.cuadro1{
+    float: right;
+}
+
+.cuadro2{
+    float: left;
+}
+.cuadro3{
+    float: right;
+}
+.cuadro4{
+    float: left;
+}
+.cuadro5{
+    float: right;
+}
+.cuadro6{
+    float: left;
+}
+.cuadro7{
+    float: right;
+}
+.cuadro8{
+    float: left;
+}
+.cuadro9{
+    float: right;
+}
