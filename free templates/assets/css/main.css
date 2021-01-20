@@ -18,14 +18,12 @@ tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
-	margin: 1em;	/* linea modificada */
-	padding: 1em;	/* linea modificada */
-	border: 0.5em;	/* linea modificada */
-	font-size: 100%;	
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;
-	
-} 
+	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -105,7 +103,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #99ff33;	/* linea modificada */
+		background: #ffffff;
 		overflow-x: hidden;
 	}
 
@@ -159,7 +157,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #99ff33;	/* linea modificada */
+		background-color: #ffffff;
 		color: #000000;
 	}
 
