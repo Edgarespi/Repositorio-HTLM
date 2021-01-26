@@ -1,12 +1,31 @@
+.posicion{
+    position: relative;
+    background-color: brown;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+
 a:hover {
     background-color: yellow;
   }
   li{
       background-color: white;
       width: 75%;
-      
+
   }
-#logo{
+
+  #logo{
     position: absolute;
     top: 15px;
     left: 30px;
