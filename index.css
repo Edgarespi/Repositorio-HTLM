@@ -1,7 +1,7 @@
 .posicion{
     position: relative;
-    background-color: brown;
     float: left;
+    width: 100%;
 }
 
 
